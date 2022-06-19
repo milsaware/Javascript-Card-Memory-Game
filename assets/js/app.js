@@ -1,4 +1,4 @@
-let level = 19;
+let level = 1;
 let turn = 0;
 let correct = 0;
 let cardOne = '';
