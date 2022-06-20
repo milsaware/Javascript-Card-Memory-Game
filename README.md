@@ -1,4 +1,4 @@
-# Javascript-Card-Memory-Game
+# Javascript Card Memory Game
 
 A card memory game with infinite levels and increasing difficulty
 
